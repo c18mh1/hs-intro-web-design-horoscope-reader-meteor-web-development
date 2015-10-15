@@ -1,4 +1,5 @@
 ## Horoscope Generator
+<img src="https://s3.amazonaws.com/after-school-assets/horoscope.jpg" align="right" width="300" hspace="10">
 
 + Step 1: Open this lab in Nitrous
 
