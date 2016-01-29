@@ -11,4 +11,4 @@ You'll want to use the `click()` function to capture the user's birthday when th
 **BONUS:**
 
 Instead of displaying the text in an alert box, can you display the text inside the `div` with the ID `reading`? Hint, the `append` function should come in handy.
-<a href='https://learn.co/lessons/hs-intro-web-design-horoscope-reader' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-web-design-horoscope-reader' title='Horoscope Generator'>Horoscope Generator</a> on Learn.co and start learning to code for free.</p>
